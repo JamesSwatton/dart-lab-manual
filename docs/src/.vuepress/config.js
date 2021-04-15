@@ -37,6 +37,9 @@ module.exports = {
         text: 'Code of Conduct',
         link: '/code-of-conduct/',
       },
+        {
+            text: 'Language Guide',
+            link: '/lang-guide/'}
     ],
     sidebar: {
       '/code-of-conduct/': [
@@ -45,6 +48,12 @@ module.exports = {
           collapsable: false,
         }
       ],
+        '/lang-guide/': [
+            {
+                title: 'Language Guide',
+                collapsable: false,
+            }
+        ]
     }
   },
 
