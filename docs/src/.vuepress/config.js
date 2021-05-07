@@ -39,7 +39,10 @@ module.exports = {
       },
         {
             text: 'Language Guide',
-            link: '/lang-guide/'}
+            link: '/lang-guide/'},
+        {
+            text: 'Admin and Computing',
+            link: '/admin-computing/'}
     ],
     sidebar: {
       '/code-of-conduct/': [
@@ -53,7 +56,7 @@ module.exports = {
                 title: 'Language Guide',
                 collapsable: false,
             }
-        ]
+        ],
     }
   },
 
