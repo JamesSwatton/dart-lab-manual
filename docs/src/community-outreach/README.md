@@ -1,5 +1,5 @@
 ---
-title: "Commnity and Outreach"
+title: "Commnity & Outreach"
 ---
 
 Community & Outreach
@@ -26,7 +26,7 @@ The diversity of board members ensures that every stage of the project
 is aligned with the needs of the community that you are working for and
 with.
 
-[Sample documents:]{.underline}
+### Sample documents:
 
 - The first document is an email template inviting individuals to join
 the advisory board.

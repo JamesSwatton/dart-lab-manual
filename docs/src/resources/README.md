@@ -159,7 +159,7 @@ your infographics in your named folder.
 Link: [Infogram.com]{.underline}  
 
 Username
-: [[Catherine.crompton\@ed.ac.uk]{.underline}](mailto:Catherine.crompton@ed.ac.uk)
+: [catherine.crompton\@ed.ac.uk](mailto:Catherine.crompton@ed.ac.uk)
 
 Password:D&RTinfogram!2017
 
@@ -178,7 +178,7 @@ Password: orangemile2
 Link: [qualtrics.com](http://qualtrics.com)  
 
 Username:
-[[Sue.Fletcher-Watson\@ed.ac.uk]{.underline}](mailto:Sue.Fletcher-Watson@ed.ac.uk)
+[sue.Fletcher-Watson\@ed.ac.uk](mailto:Sue.Fletcher-Watson@ed.ac.uk)
 
 Password: dark-night15
 
@@ -188,7 +188,7 @@ Password: dark-night15
 >
 > Username: <dart@ed.ac.uk>
 >
-> Password: HeyIt\'sTheD&RTLaB!6591
+> Password: HeyIt'sTheD&RTLaB!6591
 
 Video Camera Protocol (aka don't be a jerk)
 -------------------------------------------

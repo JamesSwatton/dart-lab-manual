@@ -35,16 +35,20 @@ module.exports = {
     editLinkText: '',
     lastUpdated: false,
     nav: [
-      {
-        text: 'Code of Conduct',
-        link: '/code-of-conduct/',
-      },
+        {
+            text: 'Code of Conduct',
+            link: '/code-of-conduct/',
+        },
         {
             text: 'Language Guide',
             link: '/lang-guide/'},
         {
             text: 'Admin and Computing',
-            link: '/admin-computing/'}
+            link: '/admin-and-computing/'},
+        {
+            text: 'Contacts',
+            link: '/contacts/',
+        },
     ],
     sidebar: getSidebar()
   },
