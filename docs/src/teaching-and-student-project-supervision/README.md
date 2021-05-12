@@ -1,4 +1,8 @@
-Teaching and student project supervision
+---
+title: "Teaching and Student Project Supervision"
+---
+
+Teaching and Student Project Supervision
 ========================================
 
 UoE Postgraduate Processes

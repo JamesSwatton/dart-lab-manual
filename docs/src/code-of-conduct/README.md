@@ -1,3 +1,7 @@
+---
+title: "The DART Code of Conduct"
+---
+
 The DART Code of Conduct
 ========================
 

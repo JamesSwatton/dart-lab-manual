@@ -1,4 +1,6 @@
 const { description } = require('../../package')
+const fs = require("fs");
+const path = require("path");
 
 module.exports = {
   /**
@@ -44,8 +46,7 @@ module.exports = {
             text: 'Admin and Computing',
             link: '/admin-computing/'}
     ],
-    sidebar: [
-    ]
+    sidebar: getSidebar()
   },
 
   /**
@@ -55,4 +56,17 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
   ]
+}
+
+function getSidebar() {
+    const folders = []
+        fs.readdirSync(`${__dirname}/..`)
+        .forEach(item => {
+            console.log(item)
+            if (item.toLowerCase() != ".vuepress" &&
+                fs.statSync(`${__dirname}/../${item}`).isDirectory()) {
+                folders.push(`/${item}/`)
+            }
+        })
+    return folders;
 }

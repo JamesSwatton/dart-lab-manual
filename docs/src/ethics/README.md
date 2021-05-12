@@ -1,3 +1,7 @@
+---
+title: "Ethics"
+---
+
 Ethics
 ======
 
@@ -12,7 +16,7 @@ themselves? The University would be liable for this, and so they want to
 know that all significant risks have been minimised. This includes risks
 like failure to take consent.
 
-::: tip
+::: tip Tips
 - Generic research governance review for insurance and liability purposes.
 - Submit your protocol, participant information sheet, and consent form
 - If you are planning an NHS ethics proposal, you can also send your IRAS
@@ -29,7 +33,7 @@ infringe human rights, and that you follow core ethical research
 practices such as informed consent and data confidentiality. This
 normally happens SECOND.
 
-::: tip
+::: tip Tips
 - Human rights review.
 - Your sponsor may recommend a specific ethics committee.
 - The ethics committee will have a specific application form and you can copy
@@ -50,7 +54,7 @@ NHS then you won't take this any further. If you are using NHS resources
 recruitment adverts in GP surgeries), then R&D approval is needed to
 permit access to these resources.
 
-::: tip
+::: tip Tips
 - NHS impact review.
 - If you are submitting to NHS ethics, you will also submit your application
   simultaneously to R&D.
@@ -65,7 +69,7 @@ the scheme, after your regular ethics is completed, if you want to
 access any patient data. This includes patient names and addresses, as
 well as diagnostic information, routine test results etc.
 
-::: tip
+::: tip Tips
 - Review of patient data security.
 - The Caldicott Guardian scheme is about protecting patient data.
 - If you are using patient data- including names and addresses from clinic

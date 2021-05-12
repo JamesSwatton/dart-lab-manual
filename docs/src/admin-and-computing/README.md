@@ -1,5 +1,5 @@
 ---
-sidebar:auto
+title: "Admin and Computing"
 ---
 
 Admin and Computing

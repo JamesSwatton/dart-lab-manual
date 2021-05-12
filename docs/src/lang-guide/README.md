@@ -1,3 +1,7 @@
+---
+title: "Language Guide"
+---
+
 Language Guide
 ==============
 

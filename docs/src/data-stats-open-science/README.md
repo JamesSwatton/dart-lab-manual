@@ -1,3 +1,7 @@
+---
+title: "Data, Stats and Open Science"
+---
+
 Data, Stats and Open Science
 ============================
 
