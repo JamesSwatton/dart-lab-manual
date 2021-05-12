@@ -44,20 +44,8 @@ module.exports = {
             text: 'Admin and Computing',
             link: '/admin-computing/'}
     ],
-    sidebar: {
-      '/code-of-conduct/': [
-        {
-          title: 'Code of Conduct',
-          collapsable: false,
-        }
-      ],
-        '/lang-guide/': [
-            {
-                title: 'Language Guide',
-                collapsable: false,
-            }
-        ],
-    }
+    sidebar: [
+    ]
   },
 
   /**
