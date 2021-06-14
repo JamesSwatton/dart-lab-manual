@@ -13,9 +13,6 @@
     "build": "vuepress build src"
   },
   "license": "MIT",
-  "dependencies": {
-    "vuepress": "^1.5.3"
-  },
   "devDependencies": {
     "vuepress": "^1.5.3"
   }
