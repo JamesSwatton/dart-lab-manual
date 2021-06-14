@@ -14,10 +14,6 @@
   },
   "license": "MIT",
   "devDependencies": {
-<<<<<<< HEAD
     "vuepress": "^1.8.2"
-=======
-    "vuepress": "^0.14.11"
->>>>>>> 15eea5835fe587c9c348025b26763c22f3decede
   }
 }
