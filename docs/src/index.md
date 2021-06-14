@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: dart-logo.jpg
 tagline:
-actionText: Quick Start →
-actionLink: /guide/
+actionText: Get Started →
+actionLink: /code-of-conduct/
 ---
