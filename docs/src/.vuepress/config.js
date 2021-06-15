@@ -63,14 +63,27 @@ module.exports = {
   ]
 }
 
+// this function used if using folders for documents
+// function getSidebar() {
+//     const folders = []
+//         fs.readdirSync(`${__dirname}/..`)
+//         .forEach(item => {
+//             console.log(item)
+//             if (item.toLowerCase() != ".vuepress" &&
+//                 fs.statSync(`${__dirname}/../${item}`).isDirectory()) {
+//                 folders.push(`/${item}/`)
+//             }
+//         })
+//     return folders;
+// }
+
 function getSidebar() {
     const folders = []
         fs.readdirSync(`${__dirname}/..`)
         .forEach(item => {
             console.log(item)
-            if (item.toLowerCase() != ".vuepress" &&
-                fs.statSync(`${__dirname}/../${item}`).isDirectory()) {
-                folders.push(`/${item}/`)
+            if (item.toLowerCase() != ".vuepress" && item.toLowerCase() != "index.md") {
+                folders.push(`/${item}`)
             }
         })
     return folders;

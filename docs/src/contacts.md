@@ -65,7 +65,7 @@ Understanding research groupings at the University
 
 *By Sinéad O'Carroll*
 
-![research groupings](./images/research-groupings.png)
+![research groupings](/upload/research-groupings.png)
 
 Key people who work in Kennedy Tower
 ------------------------------------
