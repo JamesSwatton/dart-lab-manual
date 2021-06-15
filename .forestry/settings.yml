@@ -5,9 +5,16 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: docs/src/finance
+  label: Finance
+  match: "**/*"
+- type: document
+  path: docs/src/ethics.md
+  label: Ethics
+  match: "**/*"
+- type: document
   path: docs/src/contacts.md
   label: Contacts
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
