@@ -13,7 +13,7 @@ sections:
 - type: document
   path: docs/src/contacts.md
   label: Contacts
-upload_dir: uploads
+upload_dir: docs/src/.vuepress/public/uploads
 public_path: docs/src/.vuepress/public/uploads
 front_matter_path: ''
 use_front_matter_path: false
