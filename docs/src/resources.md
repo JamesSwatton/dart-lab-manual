@@ -18,7 +18,7 @@ Centre here:
 This is the SMRC logo. If you ever need to alter the size please make
 sure you drag from the corner so you don't adjust the proportions.
 
-![SMRC logo](/upload/SMRC_logo.png)
+![SMRC logo](/uploads/SMRC_logo.png)
 
 Headed paper
 ------------
