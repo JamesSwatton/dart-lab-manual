@@ -3,7 +3,14 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+- type: directory
+  path: docs/src
+  label: Docs
+  create: documents
+  match: "**/*.md"
+  templates:
+  - new-page
 upload_dir: docs/src/.vuepress/public/uploads
 public_path: docs/src/.vuepress/public/uploads
 front_matter_path: ''
