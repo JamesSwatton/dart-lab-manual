@@ -3,16 +3,7 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections:
-- type: document
-  path: docs/src/finance.md
-  label: Finance
-- type: document
-  path: docs/src/ethics.md
-  label: Ethics
-- type: document
-  path: docs/src/contacts.md
-  label: Contacts
+sections: 
 upload_dir: docs/src/.vuepress/public/uploads
 public_path: docs/src/.vuepress/public/uploads
 front_matter_path: ''
