@@ -22,5 +22,5 @@ build:
   install_dependencies_command: npm install
   preview_docker_image: forestryio/node:12
   mount_path: "/srv"
-  working_dir: "/srv/docs/src"
+  working_dir: "/srv/docs"
   instant_preview_command: npm run dev
