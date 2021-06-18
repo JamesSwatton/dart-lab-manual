@@ -6,7 +6,7 @@ name: Build and deploy
 on:
   push:
     branches:
-      - feature/new-file-structure
+      - main
 
 jobs:
   build:
