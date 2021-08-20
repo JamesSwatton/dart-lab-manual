@@ -8,7 +8,7 @@ sections:
   path: docs
   label: Docs
   create: documents
-  match: "**/*.md"
+  match: "*.md"
   exclude: index.md
   templates:
   - new-page
