@@ -13,7 +13,7 @@ sections:
   templates:
   - new-page
 upload_dir: docs/.vuepress/public/uploads
-public_path: doc/.vuepress/public/uploads
+public_path: docs/.vuepress/public/uploads
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
