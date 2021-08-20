@@ -61,7 +61,7 @@ _By Sue FW_
 
 _By Sinéad O'Carroll_
 
-![](uploads/research-groupings.png)
+![](doc/.vuepress/public/uploads/research-groupings.png)
 
 ## Key people who work in Kennedy Tower
 
