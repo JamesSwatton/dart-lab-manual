@@ -37,6 +37,10 @@ module.exports = {
     lastUpdated: false,
     nav: [
         {
+            text: 'Editing the Manual',
+            link: '/editing-the-manual/',
+        },
+        {
             text: 'Code of Conduct',
             link: '/code-of-conduct/',
         },
@@ -78,13 +82,16 @@ module.exports = {
 // }
 
 function getSidebar() {
-    const folders = []
+    const docs = []
         fs.readdirSync(`${__dirname}/..`)
         .forEach(item => {
             console.log(item)
-            if (item.toLowerCase() != ".vuepress" && item.toLowerCase() != "index.md") {
-                folders.push(`/${item}`)
+            if (fs.statSync(`${__dirname}/../${item}`).isFile() && item.toLowerCase() != "index.md") {
+                docs.push(`/${item}`)
+            } else if (item.toLowerCase() != ".vuepress" &&
+                fs.statSync(`${__dirname}/../${item}`).isDirectory()) {
+                docs.push(`/${item}/`)
             }
         })
-    return folders;
+    return docs;
 }
